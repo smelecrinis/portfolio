@@ -23,6 +23,10 @@
     src: url(../font/Gilroy-Bold.woff);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 *, *::before, *::after {
     box-sizing: border-box;
     padding: 0;
