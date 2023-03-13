@@ -1,5 +1,6 @@
 # portfolio
 
-A simple portfolio to showcase my projects
+A simple portfolio to showcase my projects with a vaporwave aesthetic.
 
-Still a  work in progress...
+https://smelecrinis.github.io/portfolio/
+
