@@ -232,8 +232,8 @@ nav a:hover::after {
 
 .skills h2, .about h2, .work h2 {
     color: var(--primary-color); 
-    font-size: var(--fs-heading-md);        
-    padding: 1.25rem;
+    font-size: var(--fs-heading-md);
+    padding: 1.25rem;        
     margin: 3.75rem 0;  
 }
 
@@ -478,11 +478,7 @@ footer {
     .scroll-text {
         display: block;
     }
-    
-    .about p {
-        max-width: 37.5rem;
-    }
-    
+      
     .skills-img {
         display: block;
         position: absolute;        
