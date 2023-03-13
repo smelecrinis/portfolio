@@ -42,7 +42,7 @@ body {
     font-weight: bold;      
 } 
 
-p, .skills span {
+p {
     font-family: 'Gilroy Regular', sans-serif;
     font-weight: 400;
 }
@@ -226,7 +226,7 @@ nav a:hover::after {
     border-bottom-left-radius: 0.375rem;
 }
 
-.skills h2, .about h2, .work h2, .contact h2 {
+.skills h2, .about h2, .work h2 {
     color: var(--primary-color); 
     font-size: var(--fs-heading-md);        
     padding: 1.25rem;
